@@ -8,4 +8,4 @@ This is theme for game TheFarmerWasRepaced, loosely based on vscode dark theme.
 
  - Windows: %userprofile%AppDataLocalLowTheFarmerWasReplacedTheFarmerWasReplacedThemes
  - Mac: /Users/%userprofile%/Library/ApplicationSupport/com.TheFarmerWasReplaced.TheFarmerWasReplaced/Themes
-
+[![](Screenshot_20260413_194923_scale.png)](Screenshot_20260413_194923.png)
