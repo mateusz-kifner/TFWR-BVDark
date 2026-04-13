@@ -1,0 +1,134 @@
+{
+    "theme_name": "BVDark",
+    "author": "bluevoid-pl",
+    "theme_version": 1,
+    "ui": {
+        "background": "#334155FF",
+        "text": {
+            "text": "#CCCCCCFF",
+            "selection": "#264F78FF",
+            "caret": "#CCCCCCFF",
+            "caret_width": 2
+        },
+        "window_frame": "#2B2B2BFF",
+        "scrollbar": "#414141FF",
+        "button": {
+            "normal": "#1F1F1FFF",
+            "highlighted": "#2A2D2EFF",
+            "pressed": "#04395EFF",
+            "selected": "#1F1F1FFF",
+            "disabled": "#909090FF",
+            "colorMultiplier": 1.0,
+            "fadeDuration": 0.1
+        },
+        "button_text": "#CCCCCCFF",
+        "dropdown_item": {
+            "normal": "#2D2D2DFF",
+            "highlighted": "#2B2B2BFF",
+            "pressed": "#4B4B4BFF",
+            "selected": "#4B4B4BFF",
+            "disabled": "#C8C8C880",
+            "colorMultiplier": 1.0,
+            "fadeDuration": 0.1
+        },
+        "dropdown_scrollbar": "#3C3C3CFF",
+        "dropdown_background": "#2D2D2DFF",
+        "dropdown_text": "#CCCCCCFF",
+        "slider": {
+            "normal": "#CCCCCCFF",
+            "highlighted": "#F5F5F5FF",
+            "pressed": "#C8C8C8FF",
+            "selected": "#F5F5F5FF",
+            "disabled": "#C8C8C880",
+            "colorMultiplier": 1.0,
+            "fadeDuration": 0.1
+        },
+        "slider_background": "#373737FF",
+        "options_menu": "#2D2D2D7F",
+        "option_background": "#35353580",
+        "option_text": "#CCCCCCFF",
+        "search_match": "#FFFFFF11",
+        "search_match_current": "#FFFFFF24",
+        "tooltip": "#3A3A3AFF",
+        "warning_overlay": "#000000CC",
+        "warning_background": "#4B4B4BFF",
+        "warning_message": "#CCCCCCFF"
+    },
+    "docs": {
+        "text": {
+            "text": "#CCCCCCFF",
+            "selection": "#4B4B4BFF",
+            "caret": "#CCCCCCFF",
+            "caret_width": 2
+        },
+        "background": "#1F1F1FFF",
+        "spoiler": "#636363FF",
+        "spoiler_text": "#CCCCCCFF",
+        "link": "#224AB4FF",
+        "link_hover": "#3C80FCFF"
+    },
+    "code": {
+        "text": {
+            "text": "#4D6E80FF",
+            "selection": "#264F78FF",
+            "caret": "#CCCCCCFF",
+            "caret_width": 2
+        },
+        "exec_overlay": "#CCCCCCFF",
+        "window_frame_exec": "#343434FF",
+        "background": "#1F1F1FFF",
+        "button_exec": {
+            "normal": "#F43F5EFF",
+            "highlighted": "#9F1239FF",
+            "pressed": "#4C0519FF",
+            "selected": "#F43F5EFF",
+            "disabled": "#909090FF",
+            "colorMultiplier": 1.0,
+            "fadeDuration": 0.1
+        },
+        "breakpoint": "#F43F5EFF",
+        "breakpoint_line": "#FFFFFF05",
+        "comment": "#627332FF",
+        "string": "#78422BFF",
+        "number": "#5A734BFF",
+        "keyword": "#6b3b67FF",
+        "function": "#73734BFF",
+        "builtin": "#2C6550FF",
+        "complete_background": "#343434FF",
+        "complete_text": "#CCCCCCFF",
+        "complete_selected_background": "#3D3D3DFF",
+        "complete_selected_text": "#CCCCCCFF",
+        "error_background": "#343434FF",
+        "error_title": "#F43F5EFF",
+        "error_message": "#CCCCCCFF",
+        "error_border": "#F43F5EFF"
+    },
+    "unlocks": {
+        "background": "#1F1F1FFF",
+        "box_background": "#2E2E2EFF",
+        "not_unlockable": "#454545FF",
+        "already_unlocked": "#E6C87CFF",
+        "unaffordable": {
+            "normal": "#C586C0FF",
+            "highlighted": "#D59931FF",
+            "pressed": "#FFCE42FF",
+            "selected": "#C586C0FF",
+            "disabled": "#454545FF",
+            "colorMultiplier": 1.0,
+            "fadeDuration": 0.1
+        },
+        "unlockable": {
+            "normal": "#7F8A36FF",
+            "highlighted": "#ABBA49FF",
+            "pressed": "#E7FC62FF",
+            "selected": "#7F8A36FF",
+            "disabled": "#454545FF",
+            "colorMultiplier": 1.0,
+            "fadeDuration": 0.1
+        },
+        "line_locked": "#52525265",
+        "line_unlocked": "#E6C87C9A",
+        "unlock_count_background": "#444444FF",
+        "unlock_count_text": "#E6C87CFF"
+    }
+}
